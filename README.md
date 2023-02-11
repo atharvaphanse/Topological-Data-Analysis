@@ -3,7 +3,8 @@
 I just got introduced to this exciting field called Topological Data Analysis! This program is an interactive tool for understanding persistence diagram of 2D point clouds
 
 Here are some videos to get an introduction:
-Introduction to TDA: https://youtu.be/fpL5fMmJHqk
+
+Introduction to TDA: https://youtu.be/fpL5fMmJHqk  
 Tutorial on python modules used for TDA: https://youtu.be/SbsvM4Gcbl0
 
 I have not studied the subject long enough to provide an introduction but let me try to give an idea about what the code is about.
